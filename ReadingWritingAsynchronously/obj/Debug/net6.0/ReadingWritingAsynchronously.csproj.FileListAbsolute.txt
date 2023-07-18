@@ -1,0 +1,15 @@
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\bin\Debug\net6.0\ReadingWritingAsynchronously.exe
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\bin\Debug\net6.0\ReadingWritingAsynchronously.deps.json
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\bin\Debug\net6.0\ReadingWritingAsynchronously.runtimeconfig.json
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\bin\Debug\net6.0\ReadingWritingAsynchronously.dll
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\bin\Debug\net6.0\ReadingWritingAsynchronously.pdb
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ReadingWritingAsynchronously.csproj.AssemblyReference.cache
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ReadingWritingAsynchronously.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ReadingWritingAsynchronously.AssemblyInfoInputs.cache
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ReadingWritingAsynchronously.AssemblyInfo.cs
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ReadingWritingAsynchronously.csproj.CoreCompileInputs.cache
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ReadingWritingAsynchronously.dll
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\refint\ReadingWritingAsynchronously.dll
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ReadingWritingAsynchronously.pdb
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ReadingWritingAsynchronously.genruntimeconfig.cache
+C:\Users\ADAM K\source\repos\ReadingWritingAsynchronously\ReadingWritingAsynchronously\obj\Debug\net6.0\ref\ReadingWritingAsynchronously.dll
